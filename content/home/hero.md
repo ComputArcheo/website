@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
-title = "Academic Template"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "GAC-logo.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,11 +17,11 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#171717"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
@@ -36,23 +36,25 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
+# [cta]
+#   url = "https://wowchemy.com/docs/install/"
+#   label = "Get Started"
+#   icon_pack = "fas"
+#   icon = "download"
+#   
+# [cta_alt]
+#   url = "https://wowchemy.com"
+#   label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
+# [cta_note]
+#   label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**Groupe d'Archéologie Computationnelle**
 
-Build **Anything** with Widgets
+<small>Le Groupe d'Archéologie Computationnelle est une plate-forme d'échange consacrée aux méthodes numériques pour la recherche et l'enseignement en archéologie.
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+Il promeut une science ouverte et l'usage des logiciels libres, au bénéfice d'une recherche transparente et reproductible.
+
+Le groupe est ouvert à toute personne quelle que soit son expérience et soutient en particulier les étudiants et jeunes chercheurs.es.</small>

@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "Skills"
+title = "Centres d'intérêt"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,37 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "programmation"
+  description = ""  
+  
+[[feature]]
+  icon = "sync-alt"
+  icon_pack = "fas"
+  name = "reproductibilité"
+  description = ""
+  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "dataviz"
+  description = ""
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "bases de données"
+  description = ""
+  
+[[feature]]
+  icon = "map-marked-alt"
+  icon_pack = "fas"
+  name = "SIG"
+  description = ""
+
+[[feature]]
+  icon = "rebel"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+  name = "sci-fi"
+  description = ""
 
 +++
