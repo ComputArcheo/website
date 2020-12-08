@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "laptop-code"
+  icon = "unlock"
   icon_pack = "fas"
-  name = "programmation"
-  description = ""  
+  name = "open access"
+  description = ""
   
 [[feature]]
   icon = "sync-alt"
@@ -27,21 +27,21 @@ subtitle = ""
   description = ""
   
 [[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "programmation"
+  description = ""
+  
+[[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "dataviz"
   description = ""
-
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "bases de données"
-  description = ""
   
 [[feature]]
-  icon = "map-marked-alt"
+  icon = "code-branch"
   icon_pack = "fas"
-  name = "SIG"
+  name = "Humanités numériques"
   description = ""
 
 [[feature]]

@@ -24,7 +24,13 @@
   weight = 60
 
 [[main_right]]
+  name = "<span class=\"fas fa-comments\" style=\"font-size: 1rem; line-height: 1.25\"></span>"
+  post = ""
+  url = "https://chatting.huma-num.fr/gac"
+  weight = 10
+
+[[main_right]]
   name = "<span class=\"fab fa-github\" style=\"font-size: 1rem; line-height: 1.25\"></span>"
   post = ""
   url = "https://github.com/ComputArcheo"
-  weight = 10
+  weight = 20
