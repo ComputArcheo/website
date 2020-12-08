@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Groupe d'Archéologie Computationnelle"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Le Groupe d'Archéologie Computationnelle est une plate-forme d'échange consacrée aux méthodes numériques pour la recherche et l'enseignement en archéologie. Le Groupe promeut une science ouverte et l'usage des logiciels libres, au bénéfice d'une recherche transparente et reproductible."
+description = "Plate-forme d'échange consacrée aux méthodes numériques pour la recherche et l'enseignement en archéologie."
 
 ############################
 ## Site Features
@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Maison de l'Archéologie", city = "Pessac", region = "Nouvelle-Aquitaine", postcode = "33607", country = "France", country_code = "FR"}
+address = {street = "Maison de l'Archéologie<br>Université Bordeaux Montaigne", city = "Pessac", region = "Nouvelle-Aquitaine", postcode = "33607", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -116,7 +116,7 @@ contact_links = [
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-# {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+#  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
 ############################
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "GAC-social.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
@@ -161,7 +161,7 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = true, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Link authors to their profile page? (true/false)
 link_authors = true
