@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Centres d'intérêt"
+title = "Intérêts"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "unlock"
   icon_pack = "fas"
-  name = "open access"
+  name = "science ouverte"
   description = ""
   
 [[feature]]

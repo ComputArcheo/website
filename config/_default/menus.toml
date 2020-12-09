@@ -14,8 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Éthique"
-  url = "/conduite"
+  name = "Fonctionnement"
+  url = "/about"
   weight = 30
 
 [[main]]

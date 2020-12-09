@@ -36,12 +36,12 @@ title = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
-#   url = "https://wowchemy.com/docs/install/"
-#   label = "Get Started"
-#   icon_pack = "fas"
-#   icon = "download"
-#   
+[cta]
+  url = "/about"
+  label = "En savoir plus"
+  icon_pack = "fas"
+  icon = "question-circle"
+
 # [cta_alt]
 #   url = "https://wowchemy.com"
 #   label = "View Documentation"
@@ -55,6 +55,4 @@ title = ""
 
 <small>Le Groupe d'Archéologie Computationnelle est une plate-forme d'échange consacrée aux méthodes numériques pour la recherche et l'enseignement en archéologie.
 
-Il promeut une science ouverte et l'usage des logiciels libres, au bénéfice d'une recherche transparente et reproductible.
-
-Le groupe est ouvert à toute personne quelle que soit son expérience et soutient en particulier les étudiants et jeunes chercheurs.es.</small>
+Le groupe promeut une science ouverte et l'usage des logiciels libres, au bénéfice d'une recherche transparente et reproductible.</small>

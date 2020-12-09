@@ -79,6 +79,3 @@ date_format = "Jan 2006"
 #  description = "LaTeX, Markdown, RSS"
 
 +++
-
-
-
