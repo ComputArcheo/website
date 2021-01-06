@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Écriture scientifique et veille bibliographique",
+    "allDay": "false",
+    "start": "2020-10-09T15:30:00",
+    "end": "2020-10-09T17:30:00",
+    "url": "",
+    "extendedProps": {
+        "category": "Discussion"
+      },
+    "description": "LaTeX, Markdown, RSS"
+  },
+  {
+    "id": "2",
+    "title": "Traitement d'image",
+    "allDay": "false",
+    "start": "2020-10-20T16:30:00",
+    "end": "2020-10-20T18:30:00",
+    "url": "",
+    "extendedProps": {
+        "category": "Discussion"
+      },
+    "description": "ImageJ, Gimp..."
+  },
+  {
+    "id": "3",
+    "title": "Introduction à QGIS",
+    "allDay": "false",
+    "start": "2020-11-12T14:00:00",
+    "end": "2020-11-12T17:00:00",
+    "url": "",
+    "extendedProps": {
+        "category": "Atelier"
+      },
+    "description": "SIG, QGIS"
+  },
+  {
+    "id": "4",
+    "title": "Introduction à R",
+    "allDay": "false",
+    "start": "2021-02-05T14:00:00",
+    "end": "2021-02-05T17:00:00",
+    "url": "",
+    "extendedProps": {
+        "category": "Atelier"
+      },
+    "description": "R"
+  }
+]

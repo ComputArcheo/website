@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
-  name = "dataviz"
+  name = "approches quantitatives"
   description = ""
   
 [[feature]]
