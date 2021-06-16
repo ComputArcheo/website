@@ -53,6 +53,6 @@ title = ""
 
 **Groupe d'Archéologie Computationnelle**
 
-<small>Le Groupe d'Archéologie Computationnelle est une plate-forme d'échange consacrée aux méthodes numériques pour la recherche et l'enseignement en archéologie.
+<small>Le Groupe d'Archéologie Computationnelle est un collectif d'échange consacré aux méthodes numériques pour la recherche et l'enseignement en archéologie.
 
-Le groupe promeut une science ouverte et l'usage des logiciels libres, au bénéfice d'une recherche transparente et reproductible.</small>
+Le groupe promeut une science ouverte, au bénéfice d'une recherche transparente et reproductible.</small>
