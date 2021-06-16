@@ -1,6 +1,6 @@
 ---
-title: "Introduction à R"
-event: Atelier
+title: "Écriture scientifique et veille bibliographique"
+event: Discussion
 event_url: 
 
 location: Maison de l'Archéologie
@@ -16,18 +16,19 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-02-05T14:00:00Z"
-date_end: "2021-02-05T17:00:00Z"
+date: "2020-10-09T15:30:00Z"
+date_end: "2020-10-09T17:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-01-04T00:00:00Z"
+publishDate: "2020-10-09T00:00:00Z"
 
-authors:
+authors: 
 tags:
-- Analyse de données
-- Statistiques
-- R
+- LaTeX
+- Markdown
+- Zotero
+- RSS
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -53,7 +54,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: []
 
 # Enable math on this page?
 math: false
